@@ -47,7 +47,7 @@
     </dependency>
     <dependency>
       <groupId>drools</groupId>
-      <artifactId>decision-model</artifactId>
+      <artifactId>decision-model-notification</artifactId>
       <version>2.0.0</version>
       <scope>compile</scope>
     </dependency>
